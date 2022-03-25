@@ -6,9 +6,12 @@ Join me on my journey to explore what data can do for my latest interest, while 
 So far I've worked on:
 
 - 🏀 Sports: <a href=https://github.com/nalin1096/DS5500_Player_Tracking_and_Identification_NBA> Tracking and Identifying Players in NBA Broadcast Videos </a>
-   - 💡 I learned video and image processing, optical character recognition & tons about basketball!
+   - 💡 I learned video and image processing, optical character recognition, trajectory smoothing & of course, tons about basketball!
 
 - 💊 Healthcare: <a href=https://github.com/sejaldua/IBM-research-challenge> Identifying Generic Drugs for Cancer Treatment Using NLP and User-Annotation </a>
+
+  - 💡 I learned a lot about clinical trials, and applied new NLP techniques to biomedical research abstracts.
+
 - 😷 COVID Research: <a href=https://github.com/smruthiramesh/MIT_COVID-19_Datathon> Studying the impact of shelter-in-place orders on COVID-19 cases, focusing on variance by socioeconomic status. </a>
 
 Currently I'm working on:
