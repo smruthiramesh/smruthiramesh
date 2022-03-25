@@ -1,4 +1,4 @@
-<h1> 👋 Hi, I’m Smruthi Ramesh. </h1>
+<h1> 👋 Hi, I’m Smruthi </h1>
 
 I'm a Data Scientist who's passionate about learning everything under the sun! 
 Join me on my journey to explore what data can do for my latest interest, while learning new skills along the way.
